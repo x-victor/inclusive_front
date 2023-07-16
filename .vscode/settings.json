@@ -1,0 +1,10 @@
+{
+    "editor.formatOnSave": true,
+    "cSpell.language": "en, ru",
+    "cSpell.words": [
+        "Инклюзивность",
+        "headlessui",
+        "heroicons",
+        "rarr"
+    ]
+}
